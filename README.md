@@ -2,8 +2,7 @@
 Me chamo Pedro Solla e tenho 21 anos. <br>
 Sou formado em Análise e Desenvolvimento de Sistemas. <br> 
 Estou ingressando e me desenvolvendo na área de QEA. <br>
-Meu antigo perfil do github: <div style="display: inline_block"><a align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" ></a><div>
-
+Meu antigo perfil do github:  <a href="https://www.linkedin.com/in/pedrohsn/"  height="30" width="40" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ##
 
 ### Linguagens de programação que eu utilizo: 👇
