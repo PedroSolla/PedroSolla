@@ -24,12 +24,7 @@ Estou ingressando e me desenvolvendo na área de QEA. <br>
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
   </div><br>
   
-  
-### Meu Status:
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=psolla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psolla&layout=compact&theme=tokyonight">
-
+  ##
 
 <div>
   <a href="https://www.instagram.com/_pedrosolla_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
