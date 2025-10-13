@@ -13,7 +13,7 @@ Estou ingressando e me desenvolvendo na área de QEA. <br>
 
    ### Ferramentas que eu uso 🔧
    <div style="display: inline_block">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"></div><br>
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></div><br>
   
   
 ### Meu Status:
