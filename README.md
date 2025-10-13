@@ -3,7 +3,7 @@ Me chamo Pedro Solla e tenho 21 anos. <br>
 Sou formado em Análise e Desenvolvimento de Sistemas. <br>
 Estou ingressando e me desenvolvendo na área de QEA. <br>
 
-### Linguagens que eu utilizo 👇
+### Linguagens de programação que eu utilizo 👇
 <div style="display: inline_block">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
