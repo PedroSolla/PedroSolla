@@ -27,7 +27,7 @@ Estou ingressando e me desenvolvendo na área de QEA. <br>
   
   ##
   
-   Meu Status:
+   ### Meus Status:
  <div style="display: inline_block"> 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroSolla&rank_icon=github&theme=tokyonight">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSolla&layout=compact&theme=tokyonight">
